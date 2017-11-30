@@ -1,0 +1,4 @@
+
+GET     /video/:name                           vrhack.VideoController.get(name)
+
+      
